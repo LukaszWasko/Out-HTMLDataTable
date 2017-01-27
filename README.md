@@ -42,6 +42,7 @@ Notice, that some files are downloaded from Internet:
 * https://cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js
 * https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/pdfmake.min.js
 * https://cdn.rawgit.com/bpampuch/pdfmake/0.1.18/build/vfs_fonts.js
+
 So if you want to open reports on systems, that do not have Internet access
 just download these files and change Intenret paths to local paths in function.
 
@@ -54,4 +55,5 @@ Tested on:
 # More Info
 
 You can find more info and examples in Out-HTMLDataTable.ps1 file!
+
 Author: Lukasz Wasko
